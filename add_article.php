@@ -4,6 +4,8 @@
 	
 ?>
 
+<!-- Formulaire d'ajout d'article -->
+
 <div class="container">
 	<div class="row">
 		<h1 class="title">Ajouter un article</h1>

@@ -18,7 +18,23 @@
 .row_button{
 	text-align: center;
 }
+
 .articles{
 	border: 2px solid black;
 	margin: 3px;
+}
+.comment{
+	border: 2px solid red;
+}
+
+.title_article{
+	color: red;
+}
+
+.title_comment{
+	color: blue;
+}
+
+.comment h5{
+	text-decoration: underline;: 
 }
