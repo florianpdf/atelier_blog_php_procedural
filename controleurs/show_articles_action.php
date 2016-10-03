@@ -14,4 +14,4 @@ foreach ($articles as $article) {
 }
 
 // On affiche la page (vue)
-include_once('vues/show_articles.php');
+include_once('vues/show_articles_vue.php');
