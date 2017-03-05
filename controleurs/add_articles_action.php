@@ -19,5 +19,5 @@ else{
 	add_article($bdd, $titre, $contenu);
 
 	// On redirige vers la page d'accueil
-	header('Location: index');  
+	header('Location: index.php');  
 }
