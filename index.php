@@ -1,4 +1,4 @@
-<!-- Contrôleur global du blog / Point d'entré -->
+<!-- Contrôleur global du blog / Controlleur frontal / Point d'entré -->
 
 <?php
 
